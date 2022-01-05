@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-[![](figures\test.png)]
+![test resim](/figures/test.png)
